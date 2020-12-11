@@ -5,6 +5,7 @@ body {
   font-family: 'Texturina', serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color:darkgrey !important;
 }
 h2 {
   font-family: 'Nerko One', cursive !important;
